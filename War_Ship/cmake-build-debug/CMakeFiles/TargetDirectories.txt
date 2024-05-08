@@ -1,0 +1,3 @@
+/Users/admin/Downloads/UTM/PC/War_Ship_localhost/War_Ship/cmake-build-debug/CMakeFiles/Morskoi_Boi.dir
+/Users/admin/Downloads/UTM/PC/War_Ship_localhost/War_Ship/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Downloads/UTM/PC/War_Ship_localhost/War_Ship/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/admin/Downloads/UTM/SEM1/PC/War_Ship_localhost/client/cmake-build-debug/CMakeFiles/client.dir
+/Users/admin/Downloads/UTM/SEM1/PC/War_Ship_localhost/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Downloads/UTM/SEM1/PC/War_Ship_localhost/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
